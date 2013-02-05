@@ -1,28 +1,22 @@
 === Relative Metrics ===
 https://relativemetrics.com
 
-Tags: relativemetrics, relative metrics, metrics, analytics
+Tags: relativemetrics, relative metrics, metrics, analytics, statistics
 Stable tag: trunk
 Requires at least: 2.7
 Tested up to: 3.5
-Contributors: Edijs Petersons
+Contributors: eddpeterson
 
-Relative Metrics tells stories about your website statistics, which is interesting.
+Receive automatic reports about your website users statistics.
 
 == Description ==
-
-We strongly believe people like to hear great stories. 
-And Relative Metrics tells stories about your website statistics, which is interesting.
 
 Uniqueness of Relative Metrics is how we present reports.
 On Monday morning we email story telling how your website is doing in comparison to previous week.
 We make tough analytics decisions and inform you with data which has meaning so you can better understand your audience and take action.
-After you add our plugin it takes no extra work.
+Once you sign up and add our plugin - it takes no extra work.
 
-Why would you prefer using Relative Metrics?
-Our advice to answer this question is by asking yourself: would I do analytics myself or hear a great story instead.
-
-For more information about Relative Metrics visit: [https://relativemetrics.com](https://relativemetrics.com)
+PS: You'll need to [Sign Up](https://relativemetrics.com) for Relative Metrics and a [relativemetrics.com API key](https://relativemetrics.com/api-keys) to use it.  No setup fee, no credit card required to get started.
 
 == Installation ==
 
