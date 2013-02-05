@@ -42,14 +42,14 @@ function render_relativemetrics($relativemetrics_api_key) {
 ?>
 
 <script type="text/javascript">
-  var _kmq = _kmq || [];
-  function _kms(u){
+  var _rmq = _rmq || [];
+  function _rms(u){
     setTimeout(function(){
       var s = document.createElement('script'); var f = document.getElementsByTagName('script')[0]; s.type = 'text/javascript'; s.async = true;
       s.src = u; f.parentNode.insertBefore(s, f);
     }, 1);
   }
-  _kms('https://relativemetrics.com/script/<?php echo $relativemetrics_api_key; ?>/rm.js');
+  _rms('https://relativemetrics.com/script/<?php echo $relativemetrics_api_key; ?>/rm.js');
 </script>
 
 <?php
