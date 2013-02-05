@@ -11,6 +11,8 @@ Receive automatic reports about your website users statistics.
 
 == Description ==
 
+Receive automatic reports about your website users statistics.
+
 Uniqueness of Relative Metrics is how we present reports.
 
 On Monday morning we email story telling how your website is doing in comparison to previous week.
@@ -30,6 +32,8 @@ If you are hosting WordPress yourself:
 1. Upload the `relative-metrics` directory to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Add the API Key from Relative Metrics to the settings (Admin > Settings > Relative Metrics)
+
+For any questions email us: <a href="mailto:support@relativemetrics.com">support@relativemetrics.com</a>
 
 == Changelog ==
 
