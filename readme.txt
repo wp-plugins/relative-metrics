@@ -37,4 +37,6 @@ For any questions email us: <a href="mailto:support@relativemetrics.com">support
 
 == Changelog ==
 
+0.2 - Check if communication should be done over http or https
+
 0.1 - Created Plugin
