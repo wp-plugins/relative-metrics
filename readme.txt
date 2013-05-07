@@ -7,20 +7,13 @@ Requires at least: 2.7
 Tested up to: 3.5
 Contributors: eddpeterson
 
-Receive automatic reports about your website users statistics.
+Automatic reports about your website users statistics.
 
 == Description ==
 
-Receive automatic reports about your website users statistics.
-
-Uniqueness of Relative Metrics is how we present reports.
-
-On Monday morning we email story telling how your website is doing in comparison to previous week.
-We make tough analytics decisions and inform you with data which has meaning so you can better understand your audience and take action.
-
-Once you sign up and add our plugin - it takes no extra work.
-
-PS: You'll need to [Sign Up](https://relativemetrics.com) for Relative Metrics and a [relativemetrics.com API key](https://relativemetrics.com/api-keys) to use it.  No setup fee, no credit card required to get started.
+Every Monday morning receive story about your users behavior.
+Our reports are simple and clear to understand.
+Demo report available here: [relativemetrics.com](https://relativemetrics.com)
 
 == Installation ==
 

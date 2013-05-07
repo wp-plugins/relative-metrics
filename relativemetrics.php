@@ -2,8 +2,8 @@
 /*
 Plugin Name: Relative Metrics
 Plugin URI: https://relativemetrics.com
-Description: Receive automatic reports about your website users statistics. <strong>To get started:</strong> 1) Click the "Activate" link to the left of this description, 2) <a href="https://relativemetrics.com/api-keys">Sign up for a Relative Metrics API key</a>, and 3) Go to <a href="options-general.php?page=relativemetrics">"Settings > Relative Metrics"</a> to the left of this description, and save your API key. For any questions email us: <a href="mailto:support@relativemetrics.com">support@relativemetrics.com</a>
-Version: 0.2
+Description: Simple and clear to understand reports about your website users statistics.
+Version: 0.3
 Author: Edijs Petersons
 Author URI: http://www.linkedin.com/in/edijs
 */
