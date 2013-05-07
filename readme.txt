@@ -27,6 +27,10 @@ If you are hosting WordPress yourself:
 
 For any questions email us: <a href="mailto:support@relativemetrics.com">support@relativemetrics.com</a>
 
+== Screenshots ==
+
+1. An example of the monthly report user statistics overview from Relative Metrics.
+
 == Changelog ==
 
 = 0.3 =
