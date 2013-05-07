@@ -7,12 +7,11 @@ Requires at least: 2.7
 Tested up to: 3.5
 Contributors: eddpeterson
 
-Simple and clear to understand reports about your website users statistics.
+Automatic reports about your website users statistics.
 
 == Description ==
 
 Every Monday morning receive story about your users behavior.
-
 Demo report available here: [relativemetrics.com](https://relativemetrics.com)
 
 == Installation ==
