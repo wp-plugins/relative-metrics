@@ -62,6 +62,9 @@ function render_relativemetrics($relativemetrics_api_key) {
 function relativemetrics() { 
   
   $relativemetrics_api_key = get_option('relativemetrics_api_key');
+  if (!$relativemetrics_api_key) {
+    $relativemetrics_api_key = 'undefined'; 
+  }
   render_relativemetrics($relativemetrics_api_key);
 
 }
