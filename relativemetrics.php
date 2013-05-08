@@ -2,8 +2,8 @@
 /*
 Plugin Name: Relative Metrics
 Plugin URI: https://relativemetrics.com
-Description: Simple and clear to understand reports about your website users statistics.
-Version: 0.3
+Description: Automatic reports about your website users statistics.
+Version: 1.0
 Author: Edijs Petersons
 Author URI: http://www.linkedin.com/in/edijs
 */
