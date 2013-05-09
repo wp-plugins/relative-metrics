@@ -12,7 +12,10 @@ Automatic reports about your website users statistics.
 == Description ==
 
 Every Monday morning receive story about your website users behavior.
+
 Demo report available here: [relativemetrics.com](https://relativemetrics.com)
+
+Installation process described here: [https://relativemetrics.com/how-it-works/wordpress](https://relativemetrics.com/how-it-works/wordpress)
 
 == Installation ==
 
@@ -22,7 +25,7 @@ Demo report available here: [relativemetrics.com](https://relativemetrics.com)
 
 3. In plugin settings provide Relative Metrics API-key which you receive once registered at [relativemetrics.com](https://relativemetrics.com)
 
-More details describing each step available here: [https://relativemetrics.com/wordpress](https://relativemetrics.com/wordpress)
+More details describing each step available here: [https://relativemetrics.com/how-it-works/wordpress](https://relativemetrics.com/how-it-works/wordpress)
 
 == Screenshots ==
 
