@@ -19,13 +19,7 @@ Installation process described here: [https://relativemetrics.com/how-it-works/w
 
 == Installation ==
 
-1. Install plugin
-
-2. Activate plugin
-
-3. In plugin settings provide Relative Metrics API-key which you receive once registered at [relativemetrics.com](https://relativemetrics.com)
-
-More details describing each step available here: [https://relativemetrics.com/how-it-works/wordpress](https://relativemetrics.com/how-it-works/wordpress)
+Installation process described here: [https://relativemetrics.com/how-it-works/wordpress](https://relativemetrics.com/how-it-works/wordpress)
 
 == Screenshots ==
 
