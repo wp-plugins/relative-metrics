@@ -25,7 +25,7 @@ Installation process described here: [https://relativemetrics.com/how-it-works/w
 
 1. An example of the monthly report showing user statistics.
 
-2. Countries and cities your users are coming from.
+2. Countries and cities where users are coming from.
 
 3. Most popular webpages.
 
